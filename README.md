@@ -2,6 +2,7 @@ Airport-Data-Analysis
 Analyze airport operations, flights, and passenger data using Python and Jupyter Notebook for data-driven insights.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Table of Contents
+
 About
 
 Tech Stack
@@ -19,7 +20,9 @@ Planned Improvements
 About
 Airport-Data-Analysis helps uncover trends, patterns, and operational bottlenecks in airport statistics. By leveraging modern data science tools, it delivers actionable insights for optimizing airport performance and supporting strategic decisions.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Tech Stack
+
 Programming Language: Python
 
 Frameworks/Libraries:
@@ -31,8 +34,11 @@ NumPy
 Matplotlib
 
 Seaborn
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Installation & Setup
+
 Prerequisites
 Python 3.6+
 
@@ -55,8 +61,11 @@ Launch Jupyter Notebook
 bash
 jupyter notebook
 No environment variable setup required for basic functionality.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Usage
+
 Open the Jupyter Notebook files and run the cells to perform data analysis.
 
 Example
@@ -69,8 +78,10 @@ import seaborn as sns
 df = pd.read_csv('airport_data.csv')
 df.head()
 Use provided code sections to generate statistics and visualizations.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Features
+
 Data exploration and cleaning
 
 Visualization of airport statistics (flights, passengers, revenues)
@@ -78,8 +89,10 @@ Visualization of airport statistics (flights, passengers, revenues)
 Identification of top-performing airports
 
 Export results and graphs for reporting
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Planned Improvements
+
 Interactive dashboards with advanced visualizations
 
 Time-series analysis of flight patterns
