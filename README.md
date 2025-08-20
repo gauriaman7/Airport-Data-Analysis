@@ -49,16 +49,13 @@ pip (Python Package Manager)
 Steps
 Clone Repository
 
-bash
 git clone https://github.com/gauriaman7/Airport-Data-Analysis.git
 cd Airport-Data-Analysis
 Install Dependencies
 
-bash
 pip install numpy matplotlib seaborn
 Launch Jupyter Notebook
 
-bash
 jupyter notebook
 No environment variable setup required for basic functionality.
 
