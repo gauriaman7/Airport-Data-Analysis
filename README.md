@@ -70,13 +70,19 @@ Open the Jupyter Notebook files and run the cells to perform data analysis.
 
 Example
 python
+
 import pandas as pd
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
 
 df = pd.read_csv('airport_data.csv')
+
 df.head()
+
 Use provided code sections to generate statistics and visualizations.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,7 +90,7 @@ Features
 
 Data exploration and cleaning
 
-Visualization of airport statistics (flights, passengers, revenues)
+Visualization of airport statistics (flights, passengers, Etc)
 
 Identification of top-performing airports
 
